@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gathered Memory Journal"
+  short_description: "Turn photos into spacious gathered-memory journal pages"
+  default_prompt: "Use $gathered-memory-journal to extract the most memorable parts of this photo and recompose them as a spacious tactile journal page."
