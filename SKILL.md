@@ -1,63 +1,58 @@
 ---
 name: gathered-memory-journal
-description: Transform a user-supplied photograph into a spacious, tactile memory-journal image by preserving one truthful photographic anchor, extracting a few meaningful source details, and letting them continue through paper, print, drawing, and negative space. Use for hand-journal, scrapbook, travel-memory, photo-zine, gathered-scenes, or editorial collage requests that should remain recognizably personal without looking like a generic scrapbook template.
+description: Transform a user-supplied photograph into a striking paper-and-print artwork where one truthful photographic world is opened, cut, or peeled into a second imagined state that follows the same scene geometry. Use for artistic photo reconstruction, tactile editorial collage, surreal travel memory, photo-zine, torn-paper continuation, or social imagery that must remain recognizable while changing dramatically in structure and material.
 ---
 
 # Gathered Memory Journal
 
-Create a finished image that feels like a memory gathered by hand. Keep the photograph emotionally recognizable, but edit what the page remembers: one scene may become a large truthful fragment, a narrow horizon strip, a drawn echo, a repeated bird rhythm, or an expanse of untouched paper.
+Create one complete artwork from the supplied photograph. Imagine that the visible scene is only the upper layer of a page: part of it has been opened, and another version of the same world continues underneath.
 
-This skill follows the visual clarity of Zeejay0's Gathered Scenes Zine: **photography anchors the memory, illustration opens the scene, color organizes the page, and blank paper gives it distance**. Extend that idea from a single photo-to-paper handoff into a small, coherent collection of source-derived memories.
+The result is not a scrapbook and not a filtered photograph. It is **one scene passing through one decisive material threshold**.
 
-## Read the photograph
+## Find the scene's skeleton
 
-Look for:
+Read the photograph before inventing anything. Find the subject relationship and dominant spatial movement that make this particular scene unmistakable.
 
-- the one person, gesture, animal, landmark, or relationship that carries the memory;
-- two or three quieter details that reveal place, time, motion, scale, or atmosphere;
-- a direction already moving through the image: gaze, wind, horizon, path, branch, crowd, light, or repeated shape;
-- the color that feels most essential to the moment;
-- the parts the page can forget.
+Choose one truthful photographic anchor. Preserve the subject or spatial relationship that carries identity. Everything else is available for re-authorship.
 
-Do not preserve details merely because they are visible. Select what makes this photograph worth keeping.
+## Open the second world
 
-## Compose the page
+Remove one substantial, connected region of the original view. Let the opening follow a real contour or force already present in the photograph rather than a decorative frame.
 
-Begin on a new paper canvas. Let the source's dominant movement choose the canvas: a wide horizon, coastline, valley, or lateral route may remain horizontal; a rising figure, tree, street, or gaze may become vertical. Do not default to a portrait social-media ratio.
+Across that boundary, continue the same ridge, body, branch, building, waterline, shadow, or perspective into a newly made world. The geometry must connect; the visual reality must change.
 
-Place one truthful photographic anchor first and let it dominate the memory. It may be an irregular scene fragment, a person with a coherent part of the surroundings, or a bold crop that still preserves identity and gesture.
+Rebuild the opened region in one strong paper-native language chosen for this particular scene. Use one language, not a sampler of effects.
 
-Gather a few supporting memories from different parts of the source. Give them unequal roles and forms: a slim architectural fragment, a low panorama, a small atmospheric detail, a loose printed echo, or another shape discovered in the photograph. Let each reveal something the main fragment cannot. Never repeat the complete scene as several thumbnails.
+Allow the new state to alter time, season, scale, material, density, or atmosphere when the source suggests it. Invent boldly, but make the invention feel grown from the photograph.
 
-Connect the fragments through the photograph's own movement. A gaze may arrive at a landmark; wind may carry leaves and birds across the page; a horizon may become a paper edge; a streetlight may become the final point in the reading path. The viewer should feel one memory unfolding, not several cards placed beside one another.
+The transformation must occupy enough of the canvas to change the image's silhouette and reading at thumbnail size. Do not confine it to a small corner or lay it harmlessly over an otherwise complete photograph.
 
-Leave a generous quiet area. Blank paper is where distance, time, and omission become visible.
+## Compose for one glance
 
-## Let materials continue the scene
+Let the source movement choose a horizontal, vertical, or square canvas. Preserve breathing room, but do not use blank paper as a substitute for composition.
 
-Keep the photographic anchor natural and clear. Translate only selected supporting material into one or two page-native forms such as dry ink, broken contour, halftone, relief, rubbing, translucent paper, or cut-paper color. Use the source shape as the starting point, then simplify it until it belongs to the page.
+Build a clear sequence: photographic truth, material threshold, imagined continuation, quiet exit. Keep one focal subject and one dominant transformed field. Let a source-derived color carry across the boundary as a structural bridge; use any second accent only when it already belongs to the subject.
 
-Choose one main illustration language and one structural color drawn from the source. Let that color bridge fragments, redirect the eye, or complete a source contour. Paper edges, tears, overlaps, and print texture should emerge from the scene rather than advertise a scrapbook effect.
-
-Typography is optional. Add it only when a short phrase genuinely deepens the memory. Tape, stamps, tickets, maps, handwriting, dates, and labels are also optional; none of them are required to make a journal page.
+Typography is optional and normally absent. Add a very small phrase only when the image would lose meaning without it.
 
 ## Write the renderer prompt
 
-Write a short, direct art brief rather than a rule system.
+Write a short, confident art brief. Name:
 
-Describe:
+- the photographic anchor;
+- the source contour that becomes the threshold;
+- the world rebuilt beyond it;
+- the single material language and color relationship;
+- the intended visual tension.
 
-1. the new paper canvas and the large visual movement;
-2. the truthful photographic anchor and the few source details being gathered;
-3. how those details change into paper, print, drawing, color, and blankness;
-4. the intended feeling and the few obvious things that would break it.
+Describe visible decisions, not design theory. Do not turn the prompt into a checklist or add examples tailored to earlier photographs.
 
-Use visible language: name the fragment, contour, overlap, color passage, quiet field, and reading path. Do not explain design theory, enumerate every possible failure, or stack several unrelated concepts. If the prompt contains more ideas than the viewer can notice in one glance, remove ideas before adding instructions.
+Explicitly prevent the common failure: the source must not survive as a complete rectangular photograph with decoration placed on top. Avoid separate cards, repeated scenes, timid peripheral effects, generic scrapbook objects, arbitrary geometry, mixed craft styles, glossy depth, and ornamental text.
 
-## Generate and review
+## Generate
 
-Use the supplied photograph as the sole visual source. Preserve identity-bearing faces, expressions, poses, gestures, animals, and landmarks inside photographic fragments. Generate one finished image with the built-in image generator.
+Inspect the supplied image, then generate one finished raster artwork with the built-in image generator. Use the supplied photograph as the sole visual source.
 
-Review the whole page at feed size. The viewer should first recognize the main memory and the page's new silhouette, then discover the supporting fragments and material echoes. Revise only when the anchor is damaged, the page reads as a grid, the source is repeated, or decorative scrapbook objects overpower the photograph.
+Judge the result at feed size. It succeeds only if the original scene is still recognizable and the material reconstruction is immediately visible without explanation. If it merely looks like the original photo with an effect added, regenerate once by enlarging the transformed region and strengthening the shared boundary.
 
-Return the image and one short Chinese explanation of what was kept, what was allowed to disappear, and which source movement now connects the page. Do not reveal the full renderer prompt unless the user asks.
+Return the image and one short Chinese sentence explaining which reality was kept and what the opened region became. Do not reveal the renderer prompt unless requested.
