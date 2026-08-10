@@ -1,4 +1,4 @@
 interface:
-  display_name: "Gathered Memory Journal"
+  display_name: "Photo Second World"
   short_description: "Open a photograph into a connected second world"
-  default_prompt: "Use $gathered-memory-journal to preserve this scene's truthful anchor and open one connected region into a bold paper-and-print continuation."
+  default_prompt: "Use $photo-second-world to preserve this scene's truthful anchor and open one connected region into a bold paper-and-print continuation."

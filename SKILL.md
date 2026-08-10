@@ -1,9 +1,9 @@
 ---
-name: gathered-memory-journal
+name: photo-second-world
 description: Transform a user-supplied photograph into a striking paper-and-print artwork where one truthful photographic world is opened, cut, or peeled into a second imagined state that follows the same scene geometry. Use for artistic photo reconstruction, tactile editorial collage, surreal travel memory, photo-zine, torn-paper continuation, or social imagery that must remain recognizable while changing dramatically in structure and material.
 ---
 
-# Gathered Memory Journal
+# Photo Second World · 照片之下
 
 Create one complete artwork from the supplied photograph. Imagine that the visible scene is only the upper layer of a page: part of it has been opened, and another version of the same world continues underneath.
 
