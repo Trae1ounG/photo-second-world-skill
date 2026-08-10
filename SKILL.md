@@ -23,7 +23,9 @@ Do not preserve details merely because they are visible. Select what makes this 
 
 ## Compose the page
 
-Begin on a new paper canvas. Place one truthful photographic anchor first and let it dominate the memory. It may be an irregular scene fragment, a person with a coherent part of the surroundings, or a bold crop that still preserves identity and gesture.
+Begin on a new paper canvas. Let the source's dominant movement choose the canvas: a wide horizon, coastline, valley, or lateral route may remain horizontal; a rising figure, tree, street, or gaze may become vertical. Do not default to a portrait social-media ratio.
+
+Place one truthful photographic anchor first and let it dominate the memory. It may be an irregular scene fragment, a person with a coherent part of the surroundings, or a bold crop that still preserves identity and gesture.
 
 Gather a few supporting memories from different parts of the source. Give them unequal roles and forms: a slim architectural fragment, a low panorama, a small atmospheric detail, a loose printed echo, or another shape discovered in the photograph. Let each reveal something the main fragment cannot. Never repeat the complete scene as several thumbnails.
 
